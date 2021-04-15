@@ -34,7 +34,6 @@
     "webpack-dev-server": "^3.7.2"
   },
   "dependencies": {
-    "@remixproject/plugin": "^0.1.9",
 
   }
 }
